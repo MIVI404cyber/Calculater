@@ -16,7 +16,6 @@
 # Single Command
 - pkg install git ; rm -rf Calculater ; git clone https://github.com/MIVI404cyber/Calculater ; cd Calculater ; python calcaluter.py
 
-[![Facebook](https://img.shields.io/badge/Facebook-RAJ-blue?style=flat-square&logo=facebook)](https://www.facebook.com/mr.rohman.129)</br>
  [CODED BY MR.MIVI]
 
 # Thanks All (💝)
